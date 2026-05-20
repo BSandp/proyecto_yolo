@@ -1,0 +1,5 @@
+clave_privada.pem
+inventario.db
+*.pt
+__pycache__/
+runs/
